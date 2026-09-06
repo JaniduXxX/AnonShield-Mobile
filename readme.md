@@ -124,25 +124,6 @@ Anon Shield is built around modern proxy and tunneling technology with **Xray Co
 5. Start the connection.
 6. Allow the Android VPN permission when requested.
 
----
-
-## 🔗  Configuration
-
-Anon Shield supports adding and managing connection configurations.
-
-Configurations can be added through supported import/share methods depending on the release.
-
-> ⚠️ Only use configurations and servers that you trust.
-
----
-
-## 🔒  Privacy & Security
-
-Anon Shield is designed to provide a secure and private networking experience.
-
-The actual privacy and security of a connection also depends on the server, configuration and network being used.
-
-Anon Shield does not guarantee anonymity or security against every threat.
 
 ---
 
@@ -151,20 +132,6 @@ Anon Shield does not guarantee anonymity or security against every threat.
 Anon Shield is a network connectivity and privacy tool.
 
 Users are responsible for complying with applicable laws, regulations, network policies and service terms when using the application.
-
----
-
-## 🗺️  Roadmap
-
-* [x] Android v1.0 initial release
-* [x] Xray Core integration
-* [x] VPN mode
-* [x] Multi-protocol support
-* [ ] Advanced routing
-* [ ] Subscription management
-* [ ] Improved configuration sharing
-* [ ] Connection statistics
-* [ ] Additional optimization
 
 ---
 
