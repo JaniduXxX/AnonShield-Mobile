@@ -115,6 +115,15 @@ Anon Shield is built around modern proxy and tunneling technology with **Xray Co
 
 ---
 
+
+<p align="center">
+  <a href="https://github.com/JaniduXxX/AnonShield/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20ANON%20SHIELD-v1.0.0-00D9FF?style=for-the-badge&logo=android&logoColor=white" alt="Download AnonShield"/>
+  </a>
+</p>
+
+---
+
 ## 📥  Installation
 
 1. Download the latest APK from **Releases**.
