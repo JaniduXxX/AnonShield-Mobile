@@ -51,9 +51,9 @@ Built with performance, security and simplicity in mind, Anon Shield brings a cl
 
 ---
 
-## 🚀  Version 1.0.0
+## 🚀  Version 2.0.0
 
-**Anon Shield Android v1.0.0** is the first Android release of the Anon Shield client.
+**Anon Shield Android v2.0.0** is the first Android release of the Anon Shield client.
 
 ### ✨ Highlights
 
@@ -117,7 +117,7 @@ Anon Shield is built around modern proxy and tunneling technology with **Xray Co
 
 
 <p align="center">
-  <a href="https://github.com/JaniduXxX/AnonShield/releases/tag/v1.0.0">
+  <a href="https://github.com/JaniduXxX/AnonShield/releases/tag/v2.0.0">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20ANON%20SHIELD-v1.0.0-00D9FF?style=for-the-badge&logo=android&logoColor=white" alt="Download AnonShield"/>
   </a>
 </p>
